@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17d7f2bc-7a63-43c1-a0da-3df53dc50fd6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/outroteste.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2n5Dn7tWHVhVoPoRFnc1YtZpnXn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.14.1.executor": "Run",
+    "Python.16.4.executor": "Run",
+    "Python.18_6.executor": "Run",
+    "Python.Inter 12.14.executor": "Run",
+    "Python.Inter 8.1.executor": "Run",
+    "Python.Inter 8.4.executor": "Run",
+    "Python.Inter 8.5.executor": "Run",
+    "Python.Inter 9.7.executor": "Run",
+    "Python.Inter10.1.executor": "Run",
+    "Python.Inter10.2.executor": "Run",
+    "Python.Inter10.3.executor": "Run",
+    "Python.Inter10.5.executor": "Run",
+    "Python.Inter10.6.executor": "Run",
+    "Python.Inter11.1.executor": "Run",
+    "Python.Inter11.3.executor": "Run",
+    "Python.Inter11.4.executor": "Run",
+    "Python.Inter11.5.executor": "Run",
+    "Python.Inter11.6.executor": "Run",
+    "Python.Inter11.7.executor": "Run",
+    "Python.Inter12.12.executor": "Run",
+    "Python.Inter12.16.executor": "Run",
+    "Python.Inter12.17.executor": "Run",
+    "Python.Inter12.18.executor": "Run",
+    "Python.Inter12.19.executor": "Run",
+    "Python.Inter12.2.executor": "Run",
+    "Python.Inter12.20.executor": "Run",
+    "Python.Inter12.21.executor": "Run",
+    "Python.Inter12.22.executor": "Run",
+    "Python.Inter12.3.executor": "Run",
+    "Python.Inter12.7.executor": "Run",
+    "Python.Inter13.1.executor": "Run",
+    "Python.Inter9.1.executor": "Run",
+    "Python.Teste.executor": "Run",
+    "Python.avan 16.17.executor": "Run",
+    "Python.avan.16.01.executor": "Run",
+    "Python.avan14.1.executor": "Run",
+    "Python.avan14.2.executor": "Run",
+    "Python.avan15.1.executor": "Run",
+    "Python.avan15.2.executor": "Run",
+    "Python.avan15.3.executor": "Run",
+    "Python.avan15.4.executor": "Run",
+    "Python.avan15.6.executor": "Run",
+    "Python.avan15.7.executor": "Run",
+    "Python.avan15.8.executor": "Run",
+    "Python.avan16.18.executor": "Run",
+    "Python.avan16.19.executor": "Run",
+    "Python.avan16.5.executor": "Run",
+    "Python.avan16.6.executor": "Run",
+    "Python.avan16.operacao.executor": "Run",
+    "Python.avan16_operacao.executor": "Run",
+    "Python.avan17_16.executor": "Run",
+    "Python.avan17_17.executor": "Run",
+    "Python.avan17_2.executor": "Run",
+    "Python.avan17_resolvido.executor": "Run",
+    "Python.avan18_1.executor": "Run",
+    "Python.avan18_2.executor": "Run",
+    "Python.avan18_3.executor": "Run",
+    "Python.avan18_4.executor": "Run",
+    "Python.avan18_5.executor": "Run",
+    "Python.avan18_7.executor": "Run",
+    "Python.inter12.1.executor": "Run",
+    "Python.inter12.15.executor": "Run",
+    "Python.outroteste.executor": "Run",
+    "Python.utilidade.executor": "Run",
+    "Python.utils_bool.executor": "Run",
+    "Python.utils_txt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.avan18_7">
+    <configuration name="18_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap18/18_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avan18_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap18/avan18_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avan18_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap18/avan18_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avan18_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap18/avan18_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avan18_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap18/avan18_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.18_6" />
+      <item itemvalue="Python.avan18_5" />
+      <item itemvalue="Python.avan18_7" />
+      <item itemvalue="Python.avan18_3" />
+      <item itemvalue="Python.avan18_4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.avan18_7" />
+        <item itemvalue="Python.avan18_3" />
+        <item itemvalue="Python.18_6" />
+        <item itemvalue="Python.avan18_5" />
+        <item itemvalue="Python.avan18_4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d7f2bc-7a63-43c1-a0da-3df53dc50fd6" name="Changes" comment="" />
+      <created>1728254206614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728254206614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/avan15.3.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

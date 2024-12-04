@@ -1,0 +1,30 @@
+1033;Apontador;4.60;87
+1145;Bloco;9.50;43
+1054;Caneta Amarela;23.20;142
+1055;Caneta Rosa;23.20;29
+1056;Caneta Verde;23.20;46
+1218;Caderno espiral;35.90;50
+1219;Caderno espiral dubla;35.90;50
+1220;Caderno espiral tripla;35.90;50
+1451;Borracha escolar;3.75;412
+1110;Grafite 0.5;8.70;73
+1111;Grafite 0.7;8.70;75
+1112;Grafite 0.8;8.70;10
+1196;Regua 15cm;2.55;84
+1197;Regua 30cm;10.67;100
+1533;Bloco desenho;16.80;49
+1534;Bloco caligrafico;31.80;53
+1535;Bloco militrado;9.40;30
+1536;Bloco quadriculado;16.20;65
+1458;Cola Branca PVA;32.50;86
+1459;Cola Batão pequena;16.32;105
+1460;Cola Batão grande;28.10;34
+1461;Batão Branca grande;15.22;84
+1009;Pasta cartão;4.60;212
+1010;Pasta plastica;8,45;73
+1011;Pasta cartão grande;10.60;84
+1012;Pasta com grampo;5.60;37
+1013;Pasta cartão super;10.79;12
+1148;Envelope sacp kraft;26.12;184
+1148;Envelope sacp branco;28.42;84
+1148;Envelope oficiala branco;24.70;81
